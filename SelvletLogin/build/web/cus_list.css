@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 9, 2020, 7:10:16 PM
+    Author     : Beauty Kumari
+*/
+
+body{
+	
+	background-color:yellowgreen;
+}
+
+.h11{
+    align-content: center;
+}
+table{
+width:90%;
+background-color: white;
+
+}
+
+table,th,td{
+border:1px solid black;
+border-collapse:collapse;
+}
+
+th,td{
+padding:15px;
+text-align:left;
+}
